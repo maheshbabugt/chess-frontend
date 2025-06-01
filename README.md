@@ -9,8 +9,8 @@ The frontend of Chess Master, a modern online chess platform built with React an
 
 ## 📂 Repositories
 
-- Frontend: [Chess Frontend Repository](https://github.com/maheshbabugt/chess-frontend/.git)
-- Backend: [Chess Backend Repository](https://github.com/maheshbabugt/chess-backend-.git)
+- Frontend: [Chess Frontend Repository](https://github.com/maheshbabugt/chess-frontend)
+- Backend: [Chess Backend Repository](https://github.com/maheshbabugt/chess-backend-)
 
 ## 🎮 Features
 
@@ -66,7 +66,7 @@ The frontend of Chess Master, a modern online chess platform built with React an
 
 1. Clone the repository
 ```bash
-git clone https://github.com/maheshbabugt/chess-frontend.git
+git clone https://github.com/maheshbabugt/chess-frontend
 cd frontend
 ```
 
