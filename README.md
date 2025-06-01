@@ -4,13 +4,13 @@ The frontend of Chess Master, a modern online chess platform built with React an
 
 ## 🌐 Live Demo
 
-- Frontend: [Chess Master Frontend](https://chess-frontend-iota-two.vercel.app/)
-- Backend API: [Chess Master Backend](https://chess-backend-mo0t.onrender.com)
+- Frontend: [Chess Master Frontend](https://chess-frontend-rouge.vercel.app/)
+- Backend API: [Chess Master Backend](https://chess-backend-xb47.onrender.com)
 
 ## 📂 Repositories
 
-- Frontend: [Chess Frontend Repository](https://github.com/Lokesh-reddy18/Chess-frontend.git)
-- Backend: [Chess Backend Repository](https://github.com/Lokesh-reddy18/chess-backend.git)
+- Frontend: [Chess Frontend Repository](https://github.com/maheshbabugt/chess-frontend/.git)
+- Backend: [Chess Backend Repository](https://github.com/maheshbabugt/chess-backend-.git)
 
 ## 🎮 Features
 
@@ -66,7 +66,7 @@ The frontend of Chess Master, a modern online chess platform built with React an
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Lokesh-reddy18/Chess-frontend.git
+git clone https://github.com/maheshbabugt/chess-frontend.git
 cd frontend
 ```
 
@@ -104,7 +104,7 @@ The frontend is fully responsive and works on:
 Create a `.env` file in the root directory:
 
 ```env
-REACT_APP_BASE_URL=https://chess-backend-mo0t.onrender.com
+REACT_APP_BASE_URL=https://chess-backend-xb47.onrender.com
 ```
 
 ## 📦 Project Structure
@@ -125,7 +125,7 @@ frontend/
 
 ## 👥 Author
 
-Kolli Lokesh Reddy
+T Mahesh Babu
 
 ## 📝 License
 
