@@ -363,8 +363,8 @@ export default function Contact() {
                     <div>
                       <h3 className="text-lg font-bold text-yellow-400">Email</h3>
                       <p className="text-blue-200">
-                        <a href="mailto:kollilokeshreddy18@gmail.com" className="hover:text-yellow-400 transition-colors">
-                          kollilokeshreddy18@gmail.com
+                        <a href="mailto:maheshbabu6673@gmail.com" className="hover:text-yellow-400 transition-colors">
+                          maheshbabu6673@gmail.com
                         </a>
                       </p>
                     </div>
