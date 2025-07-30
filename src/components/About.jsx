@@ -233,7 +233,7 @@ export default function About() {
                     </div>
                   </div>
                   <div>
-                    <h3 className="text-xl font-bold text-yellow-400">Lokesh Reddy</h3>
+                    <h3 className="text-xl font-bold text-yellow-400">Mahesh Babu</h3>
                     <p className="text-blue-300">Web Developer</p>
                     <p className="mt-2 text-blue-100">
                       I'm a web developer who loves chess. I created Chess Master as a way to combine my 
@@ -288,7 +288,7 @@ export default function About() {
             },
             "author": {
               "@type": "Person",
-              "name": "Lokesh Reddy"
+              "name": "Mahesh Babu"
             }
           })
         }} />
